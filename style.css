@@ -39,6 +39,7 @@
     text-align: left !important;
     width: 30% !important;
     height: fit-content;
+    text-shadow: 0 0 8px #00000080;
   }
 
 .productName{
